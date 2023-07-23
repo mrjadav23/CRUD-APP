@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "DEVASHYA JADAV",
+      "username": "mr.jadav",
+      "email": "jadavdevashya23@gmail.com",
+      "phone": "9974742513",
+      "id": 1
+    },
+    {
+      "name": "DEV SEJWANI",
+      "username": "mr.dev",
+      "email": "dev25@gmail.com",
+      "phone": "7894857412",
+      "id": 2
+    }
+  ]
+}
